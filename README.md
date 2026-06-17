@@ -1,5 +1,3 @@
-# hat-framework
-Human-AI Triangulation (HAT): a verification-first framework for AI governance, oversight, and evidence-based collaboration.
 # Human-AI Triangulation (HAT) Framework
 
 **A governance methodology for responsible human-AI collaboration.**
@@ -19,13 +17,21 @@ The core principle: **AI systems should function as instruments of investigation
 
 -----
 
+## What HAT Is Not
+
+HAT is not a prompt engineering guide. It is not a jailbreak or safety bypass. It is not a framework for maximizing AI output volume or automating human judgment.
+
+HAT is a governance architecture. Its primary function is to slow down claim advancement, require evidence before promotion, and preserve human decision authority at every phase transition. Its value is measured by what it prevents, not by what it generates.
+
+-----
+
 ## What This Repository Contains
 
-|File                                                |Description                                                                                             |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-|`governance-report/HAT_AI_Governance_Report_v1.html`|Full governance white paper — stewardship failures, operator risk, amplification dynamics, system design|
-|`field-cases/JIREH_HAT_Pilot_Report.pdf`            |Operator field account — how HAT functioned under real research conditions                              |
-|`LICENSE.md`                                        |Creative Commons Attribution 4.0 International                                                          |
+|File                                                                                                      |Description                                                                                             |
+|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+|[`governance-report/HAT_AI_Governance_Report_v1.html`](governance-report/HAT_AI_Governance_Report_v1.html)|Full governance white paper — stewardship failures, operator risk, amplification dynamics, system design|
+|`LICENSE.md`                                                                                              |Creative Commons Attribution 4.0 International                                                          |
+|`CHANGELOG.md`                                                                                            |Version history                                                                                         |
 
 -----
 
@@ -66,15 +72,23 @@ All findings are classified by evidence status:
 
 -----
 
-## Field Case
+## Current Version
 
-The JIREH HAT Pilot Report is an operator account of a multi-phase research project governed under HAT methodology. It documents mode misclassification, narrative drift detection, preservation-without-endorsement workflows, and one complete procedural evidence-gate cycle. It is included as a field validation artifact, not as a research source.
+**v1.0 — June 2026**  
+Initial public release. Governance white paper, LICENSE, and CHANGELOG established.  
+Field case documentation held for future phase.
 
 -----
 
 ## How to Cite
 
-> Cespedes, Johaira. *AI Stewardship, Operator Risk, Amplification Dynamics, and System Design: A HAT Governance Assessment.* HAT Framework Project, June 2026. https://github.com/synergyaivault-max/hat-framework
+> D’Xplora, Jora. *AI Stewardship, Operator Risk, Amplification Dynamics, and System Design: A HAT Governance Assessment.* HAT Framework Project, June 2026. https://github.com/synergyaivault-max/hat-framework
+
+-----
+
+## Discussion
+
+Questions, responses, and governance commentary are welcome via [GitHub Discussions](https://github.com/synergyaivault-max/hat-framework/discussions).
 
 -----
 
